@@ -1,0 +1,10 @@
+body{
+  background-color:#f2f2f2 !important;
+}
+
+.container{
+  padding-top: 10%;
+}
+.innerdiv{
+  border: solid 1px #dddddd;
+}

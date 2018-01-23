@@ -1,0 +1,17 @@
+{"message":"accurate","cod":"200","count":2,
+"list":[{"id":5128581,"name":"New York","coord":{"lat":40.7143,"lon":-74.006},
+        "main":{"temp":2.45,"pressure":1018,"humidity":40,"temp_min":2,"temp_max":4},
+        "dt":1512770160,"wind":{"speed":1.5,"deg":280},
+        "sys":{"country":"US"},
+        "rain":null,
+        "snow":null,
+        "clouds":{"all":1},
+        "weather":[{"id":800,"main":"Clear","description":"sky is clear","icon":"01n"}]},
+
+
+
+
+{"message":"accurate","cod":"200","count":5,"list":[
+{"id":5128581,"name":"New York","coord":{"lat":40.7306,"lon":-73.9867},"main":{"temp":-4.75,"pressure":999,"humidity":57,"temp_min":-6,"temp_max":-3},"dt":1515114900,"wind":{"speed":11.3,"deg":320,"gust":18},"sys":{"country":"US"},"rain":null,"snow":null,"clouds":{"all":90},"weather":[{"id":721,"main":"Haze","description":"haze","icon":"50n"},{"id":600,"main":"Snow","description":"light snow","icon":"13n"}]},
+
+{"id":2644486,"name":"New York","coord":{"lat":53.0784,"lon":-0.1397},"main":{"temp":3.71,"pressure":990,"humidity":80,"temp_min":3,"temp_max":4},"dt":1515115200,"wind":{"speed":4.6,"deg":250},"sys":{"country":"GB"},"rain":null,"snow":null,"clouds":{"all":0},"weather":[{"id":800,"main":"Clear","description":"Sky is Clear","icon":"01n"}]}]}
